@@ -16,4 +16,4 @@ This repository contains various deep learning projects and homework problems th
 Each notebook is self-contained and can be run independently. To explore the projects, clone the repository and open the `.ipynb` files in Jupyter Notebook or any compatible environment.
 
 ```bash
-git clone https://github.com/yourusername/deep_learning_misc.git
+git clone https://github.com/mdzahidul-islam/deep_learning_misc.git
