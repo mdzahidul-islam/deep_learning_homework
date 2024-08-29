@@ -1,6 +1,6 @@
-# Deep Learning Projects
+# Deep Learning Problems
 
-This repository contains various deep learning projects and homework problems that I have worked on. The projects demonstrate different aspects of neural networks, generative models, and object detection techniques.
+This repository contains various deep learning homework problems that I have worked on. The projects demonstrate different aspects of neural networks, generative models, and object detection techniques.
 
 ## Contents
 
